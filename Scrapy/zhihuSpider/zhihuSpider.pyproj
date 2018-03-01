@@ -35,6 +35,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="result\zhihuCookies.json" />
+    <Content Include="scrapy.cfg" />
+    <Content Include="scrapyd-deploy" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
 </Project>

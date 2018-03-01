@@ -1,2 +1,10 @@
 
 .vs/
+/Scrapy/zhihuSpider/build
+/Scrapy/zhihuSpider/dbs
+/Scrapy/zhihuSpider/eggs
+/Scrapy/zhihuSpider/logs
+/Scrapy/zhihuSpider/project.egg-info
+/Scrapy/zhihuSpider/setup.py
+/Scrapy/zhihuSpider/result/crawls
+

@@ -6,7 +6,7 @@ import time
 chrome_options = Options()
 #chrome_options.add_argument('--headless')
 #chrome_options.add_argument('--disable-gpu')
-chromedriver_path = r'C:\Program Files\Python36\Scripts\chromedriver.exe'
+chromedriver_path = r'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\Scripts\chromedriver.exe' # v6.4
 driver = webdriver.Chrome(executable_path = chromedriver_path, chrome_options = chrome_options);
 
 try:
